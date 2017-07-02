@@ -1,4 +1,5 @@
 require 'coveralls'
+require 'rails'
 Coveralls.wear!
 
 require 'active_model_serializers'
